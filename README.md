@@ -73,6 +73,9 @@ Go to **IAM > Roles** and create a new role:
   - Select the CodeBuild project created in step 3
 <img width="1445" height="331" alt="image" src="https://github.com/user-attachments/assets/a0be06df-db2e-44bf-9cbe-76a457c1c38a" />
 
+- **How the pipeline will look -**
+
+<img width="940" height="319" alt="image" src="https://github.com/user-attachments/assets/d522f86d-d646-460c-a46b-b62ea25c4f84" />
 ---
 
 ## 🧪 Triggering the Pipeline
@@ -83,6 +86,7 @@ Pushing any changes to the `main` branch of your GitHub repo will automatically:
 2. Build the Docker image
 3. Authenticate and push the image to your Docker Hub repo
 
-The image will be available at your docker hub repository
-<img width="940" height="319" alt="image" src="https://github.com/user-attachments/assets/d522f86d-d646-460c-a46b-b62ea25c4f84" />
+The image will be available at your docker hub repository:
+<img width="940" height="199" alt="image" src="https://github.com/user-attachments/assets/f61cb7d7-e6d8-4628-ab80-801b264a4475" />
+
 

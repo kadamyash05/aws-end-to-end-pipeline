@@ -43,7 +43,8 @@ Go to **IAM > Roles** and create a new role:
 - **Trusted entity**: AWS service → CodeBuild
 - **Attach policies**:
   - `AmazonSSMReadOnlyAccess`
-  - <img width="940" height="125" alt="image" src="https://github.com/user-attachments/assets/4a48217f-7bf5-4bb6-8115-a0d7a17ab2da" />
+  <img width="1524" height="689" alt="image" src="https://github.com/user-attachments/assets/d8c2a2d4-c075-45e3-bb20-ae46f0015a78" />
+
 
 
 ---

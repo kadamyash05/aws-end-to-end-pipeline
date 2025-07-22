@@ -163,3 +163,7 @@ Whenever you push changes to GitHub, your pipeline will build the image, push it
 
 <img width="940" height="356" alt="image" src="https://github.com/user-attachments/assets/3eabfc5b-fb3d-4fb4-8b4b-e938b4c690ac" />
 
+**Docker Image is deployed on ec2**
+
+<img width="872" height="90" alt="image" src="https://github.com/user-attachments/assets/36f63a09-addd-4916-b1bd-20799c3b721b" />
+
